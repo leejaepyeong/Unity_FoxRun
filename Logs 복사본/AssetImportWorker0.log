@@ -1,0 +1,693 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mr13/Desktop/BallRun/Unity_BallRun
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51391
+Successfully changed project path to: /Users/mr13/Desktop/BallRun/Unity_BallRun
+/Users/mr13/Desktop/BallRun/Unity_BallRun
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mr13/Desktop/BallRun/Unity_BallRun/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-13 14:49:40.561 Unity[5932:194391] LG UltraFine preferred device: AMD Radeon Pro W5700X (high power)
+2021-05-13 14:49:40.561 Unity[5932:194391] Metal devices available: 1
+2021-05-13 14:49:40.561 Unity[5932:194391] 0: AMD Radeon Pro W5700X (high power)
+2021-05-13 14:49:40.561 Unity[5932:194391] Using device AMD Radeon Pro W5700X (high power)
+Initializing Metal device caps: AMD Radeon Pro W5700X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56932
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000537 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 25.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.621 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1124 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.6 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 2.110904 ms (FindLiveObjects: 0.184293 ms CreateObjectMapping: 0.027629 ms MarkObjects: 1.793895 ms  DeleteObjects: 0.104353 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/EnemyA.prefab
+  artifactKey: Guid(9c4bbc86924d14f37a1e59274ea3aa04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyA.prefab using Guid(9c4bbc86924d14f37a1e59274ea3aa04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c057548f26d8ddeb572a616fcb24c9') in 1.103296 seconds
+  Import took 1.105761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.368676 seconds.
+  path: Assets/Prefabs/Food/BeerBottle.prefab
+  artifactKey: Guid(293ec170ec9912240b5765c4cf87f845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Food/BeerBottle.prefab using Guid(293ec170ec9912240b5765c4cf87f845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b90398db746fea3ca584059d6c7225') in 0.010218 seconds
+  Import took 0.013098 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.0 MB.
+System memory in use after: 106.1 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 2.265072 ms (FindLiveObjects: 0.166895 ms CreateObjectMapping: 0.035778 ms MarkObjects: 2.003625 ms  DeleteObjects: 0.057786 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 251.055871 seconds.
+  path: Assets/GrassRoadRace/Bridge_Small.FBX
+  artifactKey: Guid(75d2f8822a94c3b43a2f2bab111c6ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GrassRoadRace/Bridge_Small.FBX using Guid(75d2f8822a94c3b43a2f2bab111c6ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59cdbf5916984c67aaee41905c533fa9') in 0.352750 seconds
+  Import took 0.355302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297446 seconds.
+  path: Assets/GrassRoadRace/Bridge_Large.FBX
+  artifactKey: Guid(3a0e6d70e96768a43a00963d64e729cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GrassRoadRace/Bridge_Large.FBX using Guid(3a0e6d70e96768a43a00963d64e729cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f5ae9b38ddad4a266372c8225ece12') in 0.022087 seconds
+  Import took 0.025049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.637655 seconds.
+  path: Assets/GrassRoadRace/Ground01.FBX
+  artifactKey: Guid(905e121def2d7f44fac07f3e9d083c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GrassRoadRace/Ground01.FBX using Guid(905e121def2d7f44fac07f3e9d083c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a024661a9c94e83cb79efdda9ee97065') in 0.168047 seconds
+  Import took 0.170425 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000439 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.8 MB.
+System memory in use after: 132.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 1.813303 ms (FindLiveObjects: 0.150825 ms CreateObjectMapping: 0.027531 ms MarkObjects: 1.585770 ms  DeleteObjects: 0.048189 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.632411 seconds.
+  path: Assets/Asset
+  artifactKey: Guid(16db20deebeba4f21b274f90b6852d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset using Guid(16db20deebeba4f21b274f90b6852d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d820d76973a900a60b965c816019ce7') in 0.004106 seconds
+  Import took 0.006941 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000318 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.826 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.0 MB.
+System memory in use after: 133.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1593.
+Total: 2.139789 ms (FindLiveObjects: 0.172674 ms CreateObjectMapping: 0.033608 ms MarkObjects: 1.880309 ms  DeleteObjects: 0.052320 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.893736 seconds.
+  path: Assets/Asset/GrassRoadRace
+  artifactKey: Guid(c63d3bde22e794fa4b433c86dbae9622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace using Guid(c63d3bde22e794fa4b433c86dbae9622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b90e87f40ef4bd8636f870391661b0') in 0.003851 seconds
+  Import took 0.006412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.176629 seconds.
+  path: Assets/Asset/GrassRoadRace/Ground02.FBX
+  artifactKey: Guid(7cac1ba650135f14893a5028aaa086b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Ground02.FBX using Guid(7cac1ba650135f14893a5028aaa086b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737597c121c4e347e0c64f5d446623d8') in 0.083041 seconds
+  Import took 0.086054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.688725 seconds.
+  path: Assets/Asset/GrassRoadRace/Scene_GrassRoadRaceSettings.lighting
+  artifactKey: Guid(25374878c4b9943c9af5514f400a900f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Scene_GrassRoadRaceSettings.lighting using Guid(25374878c4b9943c9af5514f400a900f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '48bc2d4ac609e2e05ac1e732f69fdc68') in 0.143255 seconds
+  Import took 0.145663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.654256 seconds.
+  path: Assets/Asset/GrassRoadRace/Scene_GrassRoadRace.unity
+  artifactKey: Guid(e323a50016ef3484f9e0d4d42c6bbc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Scene_GrassRoadRace.unity using Guid(e323a50016ef3484f9e0d4d42c6bbc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e110dd77576c00363c5edf259af34c3') in 0.001438 seconds
+  Import took 0.003919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.171708 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab
+  artifactKey: Guid(d8c79fbdcde4940deb33aea43d4caeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab using Guid(d8c79fbdcde4940deb33aea43d4caeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6196a4f58816d3f9f8e593ea260fa57a') in 0.001097 seconds
+  Import took 0.003375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.964603 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground04.prefab
+  artifactKey: Guid(a7817dc9ad2423344b2e740174f38c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground04.prefab using Guid(a7817dc9ad2423344b2e740174f38c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b0c1c40e15048bfaec6c58e0715cb2') in 0.008854 seconds
+  Import took 0.011216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016179 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground04.prefab
+  artifactKey: Guid(a7817dc9ad2423344b2e740174f38c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground04.prefab using Guid(a7817dc9ad2423344b2e740174f38c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b0c1c40e15048bfaec6c58e0715cb2') in 0.008248 seconds
+  Import took 0.010389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.662343 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground03.prefab
+  artifactKey: Guid(2ce83dba6e991a8469c95f70e0aba68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground03.prefab using Guid(2ce83dba6e991a8469c95f70e0aba68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f6aa3f932c04ac3da571d3914529ee') in 0.009970 seconds
+  Import took 0.012387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003558 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground03.prefab
+  artifactKey: Guid(2ce83dba6e991a8469c95f70e0aba68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground03.prefab using Guid(2ce83dba6e991a8469c95f70e0aba68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f6aa3f932c04ac3da571d3914529ee') in 0.008430 seconds
+  Import took 0.011008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.807672 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground07.prefab
+  artifactKey: Guid(81f29a47ae6c1c441b7f405e8725347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground07.prefab using Guid(81f29a47ae6c1c441b7f405e8725347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d3ffe325810d3faf236244f1cb6996') in 0.010366 seconds
+  Import took 0.012832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001891 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground07.prefab
+  artifactKey: Guid(81f29a47ae6c1c441b7f405e8725347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground07.prefab using Guid(81f29a47ae6c1c441b7f405e8725347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d3ffe325810d3faf236244f1cb6996') in 0.008306 seconds
+  Import took 0.010547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.462504 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground06.prefab
+  artifactKey: Guid(43f370ae72692d649b59fd00dc4a828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground06.prefab using Guid(43f370ae72692d649b59fd00dc4a828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fa85d174fd822c57cc88cd8414755c') in 0.009589 seconds
+  Import took 0.012211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006295 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground06.prefab
+  artifactKey: Guid(43f370ae72692d649b59fd00dc4a828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground06.prefab using Guid(43f370ae72692d649b59fd00dc4a828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fa85d174fd822c57cc88cd8414755c') in 0.009683 seconds
+  Import took 0.012146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.080726 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Bridge_Large.prefab
+  artifactKey: Guid(e895839d2d09f2549b9c3d67f7f376a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Bridge_Large.prefab using Guid(e895839d2d09f2549b9c3d67f7f376a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d624b429476494c788fd2d6b6056989') in 0.010472 seconds
+  Import took 0.013090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003155 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Bridge_Large.prefab
+  artifactKey: Guid(e895839d2d09f2549b9c3d67f7f376a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Bridge_Large.prefab using Guid(e895839d2d09f2549b9c3d67f7f376a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d624b429476494c788fd2d6b6056989') in 0.009036 seconds
+  Import took 0.011464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.979895 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Bridge_Small.prefab
+  artifactKey: Guid(be586f7a2d5b1934abf61a0f6b060ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Bridge_Small.prefab using Guid(be586f7a2d5b1934abf61a0f6b060ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4027c51bfc7c5a9898a7b8b56e8c45e') in 0.010972 seconds
+  Import took 0.013577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002668 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Bridge_Small.prefab
+  artifactKey: Guid(be586f7a2d5b1934abf61a0f6b060ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Bridge_Small.prefab using Guid(be586f7a2d5b1934abf61a0f6b060ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4027c51bfc7c5a9898a7b8b56e8c45e') in 0.008680 seconds
+  Import took 0.010981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.477178 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Grass.prefab
+  artifactKey: Guid(39923caca5db3ea44a250edeae07a05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Grass.prefab using Guid(39923caca5db3ea44a250edeae07a05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0af164a563e078940d4be205433a4ca') in 0.008051 seconds
+  Import took 0.010579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054709 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Grass.prefab
+  artifactKey: Guid(39923caca5db3ea44a250edeae07a05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Grass.prefab using Guid(39923caca5db3ea44a250edeae07a05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0af164a563e078940d4be205433a4ca') in 0.007428 seconds
+  Import took 0.009783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.754126 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground01.prefab
+  artifactKey: Guid(1731ae0548ad2ba458c572ab6df7b58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground01.prefab using Guid(1731ae0548ad2ba458c572ab6df7b58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e612384e932966fbd24ae81bfd77f50') in 0.011786 seconds
+  Import took 0.014412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002976 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground01.prefab
+  artifactKey: Guid(1731ae0548ad2ba458c572ab6df7b58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground01.prefab using Guid(1731ae0548ad2ba458c572ab6df7b58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e612384e932966fbd24ae81bfd77f50') in 0.009735 seconds
+  Import took 0.012137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.505608 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground02.prefab
+  artifactKey: Guid(98850bf372f52ed429394ad097c72171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground02.prefab using Guid(98850bf372f52ed429394ad097c72171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9ca7bd79304ad89ad2530b7f2e165e') in 0.011208 seconds
+  Import took 0.013915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004075 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground02.prefab
+  artifactKey: Guid(98850bf372f52ed429394ad097c72171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground02.prefab using Guid(98850bf372f52ed429394ad097c72171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9ca7bd79304ad89ad2530b7f2e165e') in 0.009113 seconds
+  Import took 0.011474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.541783 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground05.prefab
+  artifactKey: Guid(33dd86afce8a9e845aded35de3a1fdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground05.prefab using Guid(33dd86afce8a9e845aded35de3a1fdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd0adda11d238b5ec841979c1a5ada83') in 0.011072 seconds
+  Import took 0.013763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001661 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground05.prefab
+  artifactKey: Guid(33dd86afce8a9e845aded35de3a1fdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground05.prefab using Guid(33dd86afce8a9e845aded35de3a1fdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd0adda11d238b5ec841979c1a5ada83') in 0.009803 seconds
+  Import took 0.011959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.277044 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground08.prefab
+  artifactKey: Guid(c7018b38d092a6145b2d84bbbfdc63f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground08.prefab using Guid(c7018b38d092a6145b2d84bbbfdc63f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8988f9ff6f669f9de0de63b8a3897c96') in 0.009853 seconds
+  Import took 0.012411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005630 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Ground08.prefab
+  artifactKey: Guid(c7018b38d092a6145b2d84bbbfdc63f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Ground08.prefab using Guid(c7018b38d092a6145b2d84bbbfdc63f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8988f9ff6f669f9de0de63b8a3897c96') in 0.009852 seconds
+  Import took 0.012292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.433050 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/GroundBlock.prefab
+  artifactKey: Guid(dd7af5ae5c2bd564582f22acd0e943bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/GroundBlock.prefab using Guid(dd7af5ae5c2bd564582f22acd0e943bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccc36efde7b058d6590c99005998091') in 0.016251 seconds
+  Import took 0.020596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.804972 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/GroundIsland.prefab
+  artifactKey: Guid(5e817fb9f066550439c850b48a6d2cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/GroundIsland.prefab using Guid(5e817fb9f066550439c850b48a6d2cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad799f73eafb2786ee403a642bdc598') in 0.009610 seconds
+  Import took 0.012041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004203 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/GroundIsland.prefab
+  artifactKey: Guid(5e817fb9f066550439c850b48a6d2cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/GroundIsland.prefab using Guid(5e817fb9f066550439c850b48a6d2cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad799f73eafb2786ee403a642bdc598') in 0.009349 seconds
+  Import took 0.011439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.400380 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Hurdle01.prefab
+  artifactKey: Guid(532ee50e20554ae4d8287b34e4c6bcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Hurdle01.prefab using Guid(532ee50e20554ae4d8287b34e4c6bcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '136350b53b47f0658e09133f6efa5580') in 0.009164 seconds
+  Import took 0.012185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.407081 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Hurdle02.prefab
+  artifactKey: Guid(51ded5b93fd32a44a80d6b79ae6b9c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Hurdle02.prefab using Guid(51ded5b93fd32a44a80d6b79ae6b9c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43e0af0cfba9679907e34a1ff6e2218') in 0.007914 seconds
+  Import took 0.010369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.345296 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Hurdle03.prefab
+  artifactKey: Guid(2ac7f74c7d519ad44a819e9e78834688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Hurdle03.prefab using Guid(2ac7f74c7d519ad44a819e9e78834688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be487e27c5f85ca772af8e62a4281571') in 0.007560 seconds
+  Import took 0.009929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.303690 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/PalmTree.prefab
+  artifactKey: Guid(3517325933a4f02419b118e4ac715d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/PalmTree.prefab using Guid(3517325933a4f02419b118e4ac715d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13eed17e8d9f0b55b5b57535953dd980') in 0.007269 seconds
+  Import took 0.009613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286960 seconds.
+  path: Assets/Asset/GrassRoadRace/Prefab/Wave.prefab
+  artifactKey: Guid(58c25a420e6882147886b21744a277c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Prefab/Wave.prefab using Guid(58c25a420e6882147886b21744a277c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f71cef4758334a7c90bb9aa9026692') in 0.007236 seconds
+  Import took 0.009680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.810240 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/sky_BK.png
+  artifactKey: Guid(dd88f70e5c061c740ae729f955748149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/sky_BK.png using Guid(dd88f70e5c061c740ae729f955748149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2e734ccbaf6c5dde9ec66ba10d79a7') in 0.853520 seconds
+  Import took 0.855889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/sky_FR.png
+  artifactKey: Guid(ec4653ce6fb84bf4fbd449488e86592b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/sky_FR.png using Guid(ec4653ce6fb84bf4fbd449488e86592b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ea5be0ea548ba856168b6374fee4e0') in 0.006857 seconds
+  Import took 0.009008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031241 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/sky_LF.png
+  artifactKey: Guid(ef4fa9826cde2c34ca030d40a66d8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/sky_LF.png using Guid(ef4fa9826cde2c34ca030d40a66d8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7b5b0745af2608a609b6e82071d72c') in 0.007387 seconds
+  Import took 0.010375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001117 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/sky_LF.png
+  artifactKey: Guid(ef4fa9826cde2c34ca030d40a66d8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/sky_LF.png using Guid(ef4fa9826cde2c34ca030d40a66d8104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7b5b0745af2608a609b6e82071d72c') in 0.006693 seconds
+  Import took 0.008620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.301118 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/sky_RT.png
+  artifactKey: Guid(0b2016cb92aa48d48b93626334763a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/sky_RT.png using Guid(0b2016cb92aa48d48b93626334763a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7717d833f8832b4272bf9cff58e26da9') in 0.007310 seconds
+  Import took 0.009721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000777 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/sky_RT.png
+  artifactKey: Guid(0b2016cb92aa48d48b93626334763a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/sky_RT.png using Guid(0b2016cb92aa48d48b93626334763a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7717d833f8832b4272bf9cff58e26da9') in 0.009616 seconds
+  Import took 0.011804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.736478 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/Tex_Ground.png
+  artifactKey: Guid(24bd78a45adbb5d44b1cb84c4cde03a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/Tex_Ground.png using Guid(24bd78a45adbb5d44b1cb84c4cde03a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d1a416d36fbcc0dd28b1c40746a716') in 0.007885 seconds
+  Import took 0.010444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000842 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/Tex_Ground.png
+  artifactKey: Guid(24bd78a45adbb5d44b1cb84c4cde03a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/Tex_Ground.png using Guid(24bd78a45adbb5d44b1cb84c4cde03a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d1a416d36fbcc0dd28b1c40746a716') in 0.010105 seconds
+  Import took 0.012291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.335900 seconds.
+  path: Assets/Asset/GrassRoadRace/Materials/Tex_Wave.png
+  artifactKey: Guid(ba61c1c78e90249498accf7e20fff53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Materials/Tex_Wave.png using Guid(ba61c1c78e90249498accf7e20fff53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e623fefcdd57eb8822fdb4f84ef10750') in 0.008517 seconds
+  Import took 0.011107 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.5 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 2.019705 ms (FindLiveObjects: 0.173510 ms CreateObjectMapping: 0.027858 ms MarkObjects: 1.745720 ms  DeleteObjects: 0.071227 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 1.845864 ms (FindLiveObjects: 0.158546 ms CreateObjectMapping: 0.027602 ms MarkObjects: 1.599012 ms  DeleteObjects: 0.059780 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 945.572001 seconds.
+  path: Assets/Prefabs/Bridge_Large.prefab
+  artifactKey: Guid(2f4612e942ff844ef90d2d220188653e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bridge_Large.prefab using Guid(2f4612e942ff844ef90d2d220188653e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a372979201148eb9f1e107b6a8672ef6') in 0.058915 seconds
+  Import took 0.061929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.521855 seconds.
+  path: Assets/Prefabs/Road.prefab
+  artifactKey: Guid(bdc1222b622c5407b8aa27196965684b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Road.prefab using Guid(bdc1222b622c5407b8aa27196965684b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67bc57731b5a89d734c609e8ffb18ac') in 0.033831 seconds
+  Import took 0.036430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.839469 seconds.
+  path: Assets/Prefabs/PrefabTile1.prefab
+  artifactKey: Guid(efc1b74f6e7404d73a4ccabb6f97eaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PrefabTile1.prefab using Guid(efc1b74f6e7404d73a4ccabb6f97eaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9766ee3219d958438ca919523ec1bc1f') in 0.126120 seconds
+  Import took 0.129605 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.3 MB.
+System memory in use after: 143.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 2.015120 ms (FindLiveObjects: 0.174051 ms CreateObjectMapping: 0.028115 ms MarkObjects: 1.742985 ms  DeleteObjects: 0.068927 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000357 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.5 MB.
+System memory in use after: 143.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 2.100041 ms (FindLiveObjects: 0.180229 ms CreateObjectMapping: 0.051057 ms MarkObjects: 1.810372 ms  DeleteObjects: 0.057368 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 143.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 2.297153 ms (FindLiveObjects: 0.207971 ms CreateObjectMapping: 0.041022 ms MarkObjects: 1.990469 ms  DeleteObjects: 0.056599 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 757.778895 seconds.
+  path: Assets/Prefabs/PrefabTile1.prefab
+  artifactKey: Guid(efc1b74f6e7404d73a4ccabb6f97eaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PrefabTile1.prefab using Guid(efc1b74f6e7404d73a4ccabb6f97eaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a91ad373972fa4477b094fc41876fc') in 0.078107 seconds
+  Import took 0.081628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.524972 seconds.
+  path: Assets/Prefabs/PrefabTile2.prefab
+  artifactKey: Guid(467e90a74f2c84f8f945231b65b996fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PrefabTile2.prefab using Guid(467e90a74f2c84f8f945231b65b996fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e08f395c9d398597103f74fe0bf5b139') in 0.015563 seconds
+  Import took 0.018615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2311.492287 seconds.
+  path: Assets/Asset/Food Pack Mixed
+  artifactKey: Guid(3554abb54defe6c42a073afa335cf051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Food Pack Mixed using Guid(3554abb54defe6c42a073afa335cf051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a012016705659320b4a077799bb21e1c') in 0.001228 seconds
+  Import took 0.003867 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 2.127330 ms (FindLiveObjects: 0.180037 ms CreateObjectMapping: 0.039585 ms MarkObjects: 1.846154 ms  DeleteObjects: 0.060588 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.787166 seconds.
+  path: Assets/Asset/GrassRoadRace/Grass.FBX
+  artifactKey: Guid(3b038aa153bdcf548967d953f85b028d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/GrassRoadRace/Grass.FBX using Guid(3b038aa153bdcf548967d953f85b028d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b6590c1b6a851b4af15b03cf6eb9a5') in 0.074494 seconds
+  Import took 0.077041 seconds .
+
